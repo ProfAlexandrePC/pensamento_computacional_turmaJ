@@ -1,11 +1,11 @@
 body {
-    background-color: #6959CD;
+    background-color: #000080;
 }
 
 #titulo {
     text-align: center;
     font-size: 30px;
-    color: rgb(0, 4, 255);
+    color: #1E90FF;
 }
 .texto { 
     text-align: center;
