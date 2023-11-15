@@ -2,6 +2,9 @@
 body {
     background: #000080;
 }
+#galileu{
+    width: 100%;
+}
 /*modifica a formataçao do título*/
 #titulo {
     text-align: center;
@@ -9,9 +12,7 @@ body {
     color: #1E90FF;
 }
 
-#galileu{
-    width: 100%;
-}
+
 
 /*modifica a formataçao do texto*/
 .texto { 
