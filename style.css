@@ -3,7 +3,7 @@ body {
     background: #000080;
 }
 #galileu{
-    width: 100%;
+    width: 50%;
 }
 /*modifica a formataçao do título*/
 #titulo {
@@ -11,8 +11,6 @@ body {
     font-size: 30px;
     color: #1E90FF;
 }
-
-
 
 /*modifica a formataçao do texto*/
 .texto { 
