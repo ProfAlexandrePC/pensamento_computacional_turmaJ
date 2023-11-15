@@ -1,6 +1,6 @@
 /*pinta o plano de fundo*/
 body {
-    background-color: #000080;
+    background: #000080;
 }
 /*modifica a formataçao do título*/
 #titulo {
@@ -8,6 +8,11 @@ body {
     font-size: 30px;
     color: #1E90FF;
 }
+
+#galileu{
+    width: 100%;
+}
+
 /*modifica a formataçao do texto*/
 .texto { 
     text-align: center;
