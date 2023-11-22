@@ -2,6 +2,7 @@
 body {
     background: #000080;
 }
+/*estiliza a imagem*/
 #galileu{
     width: 50%;
     margin: 20px;
@@ -15,8 +16,12 @@ body {
 }
 
 /*modifica a formataçao do texto*/
+em strong{
+    color: red;
+}
 .texto { 
     text-align: center;
     color: #708090;
     font-size: 20px;
 }
+
