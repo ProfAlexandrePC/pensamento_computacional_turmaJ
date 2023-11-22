@@ -4,6 +4,8 @@ body {
 }
 #galileu{
     width: 50%;
+    margin: 20px;
+    padding: 5px;
 }
 /*modifica a formataçao do título*/
 #titulo {
