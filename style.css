@@ -25,4 +25,9 @@ em strong{
     color: #708090;
     font-size: 20px;
 }
+.titulo{
+    text-align: center;
+    background-image: linear-gradient(#B0C4DE, #1E90FF);
+    color: #1E90FF;
+}
 
