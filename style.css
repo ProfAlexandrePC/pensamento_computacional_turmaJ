@@ -4,6 +4,7 @@ body {
 }
 /*estiliza a imagem*/
 #galileu{
+    align-items: center;
     width: 50%;
     margin: 20px;
     padding: 5px;
