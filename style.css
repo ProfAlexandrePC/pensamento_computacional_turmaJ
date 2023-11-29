@@ -40,6 +40,7 @@ header{
 }
 
 .cabecalho-titulo{
+    text-align: center;
     font-size: 20px;
     color: rgb(241, 136, 7);
 }
@@ -56,4 +57,8 @@ header{
 .lista{
     text-align: center;
     color: #1E90FF;
+}
+.titulolista{
+    font-size: 20px;
+    color:#1E90FF;
 }
