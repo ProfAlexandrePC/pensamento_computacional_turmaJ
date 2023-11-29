@@ -56,7 +56,9 @@ header{
     margin: 20px;
     border-radius: 10px;
 }
-
+.cabecalho-item{
+    display: inline-block;
+}
 .lista{
     text-align: center;
     color: #1E90FF;
